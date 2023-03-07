@@ -1,0 +1,97 @@
+.footer-10 {
+    background: #222;
+    padding: 0 0 4em 0;
+}
+
+
+.no-gutters {
+    margin-right: 0;
+    margin-left: 0;
+}
+
+.footer-10 .con-info .icon {
+    width: 50px;
+    height: 50px;
+    background: #1089ff;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-bottom: 10px;
+}
+
+.footer-10 .con-info span {
+    color: rgba(255,255,255,.8);
+}
+
+.text{
+    text-align: center;
+}
+
+
+.footer-10 .con.con-1 {
+    background: #1c1c1c;
+}
+
+
+.footer-10 .con.con-2 {
+    background: #1c1c1c;
+}
+
+.footer-10 .con.con-3 {
+    background: #2a2a2a;
+}
+
+
+.footer-10 .footer-heading {
+    font-size: 18px;
+    color: #fff;
+    margin-bottom: 15px;
+}
+
+.list-unstyled {
+    padding-left: 0;
+    list-style: none;
+}
+
+a:link {
+    text-decoration: none;
+}
+
+.d-block {
+    display: block!important;
+}
+a {
+    color: rgba(255,255,255,0.6);
+}
+a {
+  
+    text-decoration: underline;
+}
+
+a:hover {
+    text-decoration: none;
+    color: white;
+}
+a:visited {
+    text-decoration: none;
+}
+
+ul {
+    display: block;
+    list-style-type: disc;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    padding-inline-start: 40px;
+}
+
+a {
+    -webkit-transition: .3s all ease;
+    -o-transition: .3s all ease;
+    transition: .3s all ease;
+}
+
+
+.icn{
+    font-size: 26px;
+}
